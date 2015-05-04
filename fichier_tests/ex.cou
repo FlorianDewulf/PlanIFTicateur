@@ -1,0 +1,10 @@
+code;section;name;professor;type;duration;contraint_begin;constraint_end;day;hour
+glo-12;a;reseau1;prof a;classe;3.0;8.5;18.0;2;9.0
+glo-13;b;algo1;prof b;classe;2.0;8.5;18.0;2;13.0
+glo-14;c;gestion;prof c;classe;3.0;8.5;18.0;2;9.0
+mng-21;i;comport;prof z;classe;2.0;8.5;18.0;2;13.0
+mng-22;i;entrep;prof i;classe;2.0;8.5;18.0;3;13.0
+glo-18;h;maths\;\;\;;prof h;classe;3.5;8.5;18.0;3;9.0
+vis-23;j;visite;noprof;dehors;6.0;8.0;18.0
+tes-1;j;test;prof1;dehors;2.0;8.0;18.0;3;9.0
+tes-2;j;test;prof2;dehors;2.0;8.0;18.0;3;13.0
